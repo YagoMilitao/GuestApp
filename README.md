@@ -103,15 +103,11 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project is built in Kotlin in Adroid Studio
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Kotlin][Kotlin.org]][Kotlin-url]
+* [![AndroidStudio][AndroidStudio.com]][AndroidStudio-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -279,3 +275,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Kotlin.org]:https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
+[Kotlin-url]:https://kotlinlang.org
+[AndroidStudio.com]:https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=android-studio&logoColor=white
+[AndroidStudio-url]:https://developer.android.com/studio?gad_source=1&gclid=CjwKCAjwlbu2BhA3EiwA3yXyuxignR1emdm8wGBru44j2AIPNBtruzXoIJCok4_QN1KOQHbWyPkJ6BoCr78QAvD_BwE&gclsrc=aw.ds&hl=pt-br
